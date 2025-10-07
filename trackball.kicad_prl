@@ -1,11 +1,11 @@
 {
   "board": {
-    "active_layer": 6,
-    "active_layer_preset": "",
+    "active_layer": 0,
+    "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -45,7 +45,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_7ffdfd7f",
+    "visible_layers": "00000000_00000000_55555555_57555555",
     "zone_display_mode": 1
   },
   "git": {
@@ -122,24 +122,12 @@
   "project": {
     "files": [
       {
-        "name": "trackball.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 1350,
-          "size_y": 583
-        }
-      },
-      {
         "name": "trackball.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
-          "pos_x": 2782,
+          "pos_x": 222,
           "pos_y": -268,
           "size_x": 2116,
           "size_y": 1708
