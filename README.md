@@ -1,6 +1,6 @@
 ## Endgame Trackball (hardware)
 
-![image](https://github.com/user-attachments/assets/bf2f9429-06c4-43a7-9818-56adad9188bc)
+<img width="945" height="1202" alt="image" src="https://github.com/user-attachments/assets/93c96014-ea7b-426e-a214-7151da6b1d8e" />
 
 #### Why 6 layers?
 
