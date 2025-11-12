@@ -2,9 +2,14 @@
 \#auto*
 *.lck
 *-backups
+*/*-backups
 production/
 _autosave*
 *autosave*
 *.svg
 *.pdf
-
+*/production
+*cache
+*/*cache
+.idea
+*.bak

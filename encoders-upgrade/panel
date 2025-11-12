@@ -1,0 +1,16 @@
+{
+    "layout": {
+        "vspace": "2mm",
+        "rows": "7",
+        "cols": "3"
+    },
+    "cuts": {
+        "type": "vcuts"
+    },
+    "copperfill": {
+        "type": "solid"
+    },
+    "post": {
+        "millradiusouter": "0.5mm"
+    }
+}

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pmw3610")(type "KiCad")(uri "/home/efog/Projects/endgame-trackball/endgame-trackball-hardware/pmw3610.kicad_sym")(options "")(descr ""))
+)
