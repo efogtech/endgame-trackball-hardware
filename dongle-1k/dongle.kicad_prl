@@ -45,8 +45,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_77555f7f",
-    "zone_display_mode": 0
+    "visible_layers": "ffffffff_ffffffff_fffffff5_f7555fff",
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",
@@ -120,20 +120,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "dongle.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 24,
-          "pos_y": 21,
-          "size_x": 2608,
-          "size_y": 1427
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {

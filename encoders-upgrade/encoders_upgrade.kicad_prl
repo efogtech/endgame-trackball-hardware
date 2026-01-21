@@ -117,7 +117,7 @@
         "name": "encoders_upgrade.kicad_pcb",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
           "pos_x": 0,
           "pos_y": 350,

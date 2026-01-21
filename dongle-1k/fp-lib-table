@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usb")(type "KiCad")(uri "${KIPRJMOD}/usb.pretty")(options "")(descr ""))
+  (lib (name "mifa")(type "KiCad")(uri "${KIPRJMOD}/mifa.pretty")(options "")(descr ""))
+)
