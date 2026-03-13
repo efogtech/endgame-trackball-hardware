@@ -526,7 +526,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "dongle.step",
       "svg": "",
       "vrml": ""
     },

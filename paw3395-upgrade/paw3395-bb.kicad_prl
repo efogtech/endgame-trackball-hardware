@@ -50,7 +50,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",
@@ -112,7 +112,32 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "paw3395-bb.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 350,
+          "size_x": 2560,
+          "size_y": 1411
+        }
+      },
+      {
+        "name": "paw3395-bb.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 2758,
+          "pos_y": 0,
+          "size_x": 2164,
+          "size_y": 1440
+        }
+      }
+    ]
   },
   "schematic": {
     "selection_filter": {

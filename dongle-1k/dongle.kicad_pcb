@@ -1480,10 +1480,10 @@
 				(xyz 0 -0 -0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 1 1 2)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4741,6 +4741,17 @@
 			(uuid "11e87ba8-303d-4583-bc93-f42c19b73a1b")
 		)
 		(embedded_fonts no)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SW-SMD_HX-TSC4A-250GF-DZ.wrl"
+			(offset
+				(xyz -32.75 -19.275 -1.4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "easyeda2kicad:C0402"
 		(layer "B.Cu")
