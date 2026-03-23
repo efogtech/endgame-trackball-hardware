@@ -53,6 +53,7 @@
     "zone_display_mode": 1
   },
   "git": {
+    "integration_disabled": false,
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
@@ -114,18 +115,6 @@
   "project": {
     "files": [
       {
-        "name": "paw3395-bb.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 350,
-          "size_x": 2560,
-          "size_y": 1411
-        }
-      },
-      {
         "name": "paw3395-bb.kicad_sch",
         "open": false,
         "window": {
@@ -135,6 +124,18 @@
           "pos_y": 0,
           "size_x": 2164,
           "size_y": 1440
+        }
+      },
+      {
+        "name": "paw3395-bb.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 350,
+          "size_x": 2560,
+          "size_y": 1411
         }
       }
     ]
