@@ -1,12 +1,15 @@
 ## Endgame Trackball (hardware)
 
-| Revision | Type          | RGB LEDs | Consumption (idle/sleep) | C‑to‑C cable support | Additional exposed pins | Notes                                      |
+| Revision | Type          | RGB LEDs | Consumption (idle/sleep) | C‑to‑C cable support | Additional exposed pins* | Notes                                      |
 |------------|---------------|----------------|-------------|----------------------|--------------------------|--------------------------------------------------|
-| rev3       | medium batch  | ⚠️      | 🔴 480/130 uA         | ❌               | ❌               | RGB runs only with 100% brightness. Doesn't support the new (latest) encoders withour firmware modification. |
-| rev4       | large batch   | 🟢          | 🔴 440/110 uA         | ❌                    | ❌                        | —                                                |
+| rev3       | medium batch  | ⚠️      | 🔴 480/130 uA         | ⚠️               | ❌               | RGB runs only with 100% brightness. Doesn't support the new (latest) encoders withour firmware modification. |
+| rev4       | large batch   | 🟢          | 🔴 440/110 uA         | ⚠️                    | ❌                        | —                                                |
 | rev5       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ❌                        | —                                                |
 | rev6       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ⚠️                        | The exposed pins are not very convenient to use. Restarts when USB power lost. |
 | rev7       | final         | 🟢           | 🟢 110/60 uA         | ✅                    | ✅                        | —                                                |
+
+*Additional 3 GPIOs for arbitrary user modifications. 
+
 
 <img width="945" height="1202" alt="image" src="./render.png" />
 
