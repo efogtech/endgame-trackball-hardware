@@ -4,7 +4,7 @@
 |------------|---------------|----------------|-------------|----------------------|--------------------------|--------------------------------------------------|
 | rev3       | medium batch  | ⚠️      | 🔴 480/130 uA         | ⚠️               | ❌               | RGB runs only with 100% brightness. Doesn't support the new (latest) encoders withour firmware modification. |
 | rev4       | large batch   | 🟢          | 🔴 440/110 uA         | ⚠️                    | ❌                        | —                                                |
-| rev5       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ❌                        | —                                                |
+| rev5       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ❌                        | Restarts when USB power lost.                                                |
 | rev6       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ⚠️                        | The exposed pins are not very convenient to use. Restarts when USB power lost. |
 | rev7       | final         | 🟢           | 🟢 110/60 uA         | ✅                    | ✅                        | —                                                |
 
