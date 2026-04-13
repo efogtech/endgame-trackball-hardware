@@ -5,8 +5,8 @@
 | rev3       | medium batch  | 🔴      | 🔴 480/130 uA         | ⚠️               | ❌               | Doesn't support the new (latest) encoders withour firmware modification. |
 | rev4       | large batch   | 🟢          | 🔴 440/110 uA         | ⚠️                    | ❌                        | —                                                |
 | rev5       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ❌                        | Restarts when USB power lost.                                                |
-| rev6       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ⚠️                        | The exposed pins are not very convenient to use. Restarts when USB power lost. |
-| rev7       | final         | 🟢           | 🟢 110/60 uA         | ✅                    | ✅                        | —                                                |
+| rev6       | transitional  | 🟢           | 🟢 95/50 uA         | ✅                    | ⚠️                        | The exposed pins are not very convenient to use. |
+| rev7       | final         | 🟢           | 🟢 95/50 uA         | ✅                    | ✅                        | —                                                |
 
 *Additional 3 GPIOs for arbitrary user modifications. 
 
