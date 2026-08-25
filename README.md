@@ -7,7 +7,10 @@
 | rev5       | transitional  | 🟢           | 🟢 110/60 uA         | ✅                    | ❌                        | Restarts when USB power lost.                    |
 | rev6       | transitional  | 🟢           | 🟢 95/50 uA          | ✅                    | ⚠️                        | The exposed pins are not very convenient to use. |
 | rev7       | ~~final~~     | 🟢           | 🟢 95/50 uA          | ✅                    | ✅                        | The AXP2585 charging IC has got discontinued.    |
-| rev8       | final (?)     | 🟢           | ?/? uA               | ✅                    | ✅                        | Specifications are to be measured.               |
+| rev8       | transitional  | 🟢           | ?/? uA               | ✅                    | ✅                        | Specifications are to be measured. Has a [hardware issue](https://www.reddit.com/r/efogtech/comments/1vsg4g9/hardware_issue_disclosure/). Can't work without a battery.             |
+| rev9       | transitional  | 🟢           | ?/? uA               | ✅                    | ✅                        | Specifications are to be measured. Has the same hardware issue.              |
+| rev10      | final         | 🟢           | ?/? uA               | ✅                    | ✅                        | Not in production yet.              |
+
 
 *Additional 3 GPIOs for arbitrary user modifications. 
 
